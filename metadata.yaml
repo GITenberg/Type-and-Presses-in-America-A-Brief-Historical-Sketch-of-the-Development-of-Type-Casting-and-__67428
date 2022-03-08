@@ -1,0 +1,34 @@
+_repo: Type-and-Presses-in-America-A-Brief-Historical-Sketch-of-the-Development-of-Type-Casting-and-__67428
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Frederick W. (Frederick William)
+    alias: Hamilton, Frederick William
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '7092'
+    url: http://www.gutenberg.org/2009/agents/7092
+description: ''
+gutenberg_issued: '2022-02-17'
+identifiers:
+  gutenberg: '67428'
+  lccn: '19001895'
+language: en
+pgterms:marc905: 20060413172112hamilton
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Richard Tonsing, Barbara Tozier, Bill Tozier, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: United States :United Typothetae of America,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Typographic technical series for apprentices, pt. VIII, no. 55
+subjects:
+- !lcsh 'Printing presses'
+- !lcsh 'Type and type-founding -- United States -- History'
+- !lcc 'Z'
+- GITenberg
+title: "Type and Presses in America\r\nA Brief Historical Sketch of the Development\
+  \ of Type Casting and Press Building in the United States"
+url: http://www.gutenberg.org/ebooks/67428
